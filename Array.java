@@ -6,6 +6,11 @@ imort java.util.*;
         marks[1]=67;
         marks[2]=87;
         system.out.println(marks[0]);
+        system.out.println(marks[1]);
+        system.out.println(marks[2]);
+
+
+
 
 
 
